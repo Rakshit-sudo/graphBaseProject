@@ -28,7 +28,7 @@ const Navbar = () => {
             </Link>
           </>
         ) : (
-          <AuthProviders/>
+          <AuthProviders />
         )}
       </div>
     </nav>
